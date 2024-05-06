@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on two different projects, a Server and Firewall dashboard \, and a Stock Price Deviation project<br>👯 I’m looking to collaborate with you for Capture the Flag competitions and Hackathons as well!!<br>🤝 I’m looking for help with<br>🌱 I’m currently a final-year student pursuing a B.E. in Information technology  <br>⚡ I would love to talk about cybersecurity and the latest hacking-related news!!
+🔭 I’m currently working on two different projects, a Server and Firewall dashboard \, and a Stock Price Deviation project<br>👯 I’m looking to collaborate with you for Capture the Flag competitions and Hackathons as well!!<br>🌱 I’m currently a final-year student pursuing a B.E. in Information technology  <br>⚡ I would love to talk about cybersecurity and the latest hacking-related news!!
 
 
 ## 🌐 Socials:

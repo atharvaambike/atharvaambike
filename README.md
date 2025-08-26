@@ -1,9 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on two different projects, a Server and Firewall dashboard \, and a Stock Price Deviation project<br>👯 I’m looking to collaborate with you for Capture the Flag competitions and Hackathons as well!!<br>⚡ I would love to talk about cybersecurity and the latest hacking-related news!!
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/<your-username>)
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AtharvaNeo.png)
-
 
 
 # 💻 Tech Stack:
